@@ -1,5 +1,8 @@
 # React Hook Form with Playwright
 
+- To get started run `npm i`
+- Then installed Playwright using `npx playwright install` 
+
 ## Available Scripts
 
 In the project directory, you can run:
